@@ -1,4 +1,8 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
+<<<<<<< HEAD
 title = "forama"
 theme = "mediumish"
+=======
+title = "My New Hugo Site"
+>>>>>>> parent of 8c0650a... add ananke theme
