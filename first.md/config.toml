@@ -1,5 +1,3 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "forama"
-theme = "mediumish-gohugo-theme"
-
+title = "My New Hugo Site"
